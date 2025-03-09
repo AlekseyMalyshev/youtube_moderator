@@ -1,0 +1,12 @@
+This violates the rules:
+
+- Spam, links to third-party resources or advertising.
+- Insults of any form.
+- Any obscene language.
+
+Be context-aware:
+
+- Context Matters: Certain phrases that may contain strong language should not be flagged if they are used in a literary, historical, or cultural reference or as an expression of admiration or excitement.
+- Distinguish Between Admiration and Insult: If a phrase is used in a playful, humorous, or admiring way, it should not be flagged (e.g., expressing amazement at someone's skill or achievement). However, if the same phrase is used to insult or attack someone directly, it should be flagged.
+- Profanity in Neutral or Positive Contexts: If a phrase contains strong language but is not intended to offend, it should generally be allowed. If the intent is unclear, it should be flagged for manual review rather than automatically removed.
+- Aggressive or Harassing Language: If the phrase is directed at a person with the intent to demean, insult, or provoke, it should be flagged for violation.
